@@ -1,0 +1,16 @@
+header{
+	background: none}
+	h1{
+		margin: 15px 0 0 27px;
+		padding: 0;
+		display: inline-block}
+.brand-logo{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin: 10px 10px 0 0;
+	float: right;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+	{background: none;
+	color: #222}
+
